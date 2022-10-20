@@ -1,6 +1,5 @@
-# dashboard_app
+# Dashboard UI App
 
-HR Dashboard UI
 
 ## Getting Started
 
