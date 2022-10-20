@@ -1,6 +1,6 @@
 # dashboard_app
 
-A new Flutter project.
+HR Dashboard UI
 
 ## Getting Started
 
